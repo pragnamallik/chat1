@@ -3,10 +3,10 @@
 <widget xmlns = "http://www.w3.org/ns/widgets" 
    xmlns:gap = "http://phonegap.com/ns/1.0" id = "pragna1" version = "1.0">
    
-   <name>Pragna App</name>
+   <name>Pragna App1</name>
    
    <description>
-      Pragna App Online Viewer
+      Pragna App1
    </description>
    
    <author href = "http://tutorialspoint.com" email = "contact@tutorialspoint.com">
