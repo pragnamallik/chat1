@@ -1,12 +1,12 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
 
 <widget xmlns = "http://www.w3.org/ns/widgets" 
-   xmlns:gap = "http://phonegap.com/ns/1.0" id = "pragna1" version = "1.0">
+   xmlns:gap = "http://phonegap.com/ns/1.0" id = "pragna2" version = "1.0">
    
-   <name>Pragna App1</name>
+   <name>PragnaApp2</name>
    
    <description>
-      Pragna App1
+      PragnaApp2
    </description>
    
    <author href = "http://tutorialspoint.com" email = "contact@tutorialspoint.com">
